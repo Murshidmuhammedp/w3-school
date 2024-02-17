@@ -1,0 +1,123 @@
+
+#img{
+    height:40px;
+    width: 40px;
+    cursor: pointer;
+}
+#container{
+    height: 50px;
+    display: flex;
+}
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#container2{
+    display: flex;
+    justify-content: flex-end;
+    width: 750px;
+
+
+}
+.items{
+   color: black;
+   text-align: center;
+   font-size: 16px;
+   width: 130px;
+   cursor: pointer;
+   
+}
+.items1{
+    position: relative;
+    top: 8px;
+   color: black;
+   text-align: center;
+   font-size: 16px;
+   width: 100px;
+   cursor: pointer;
+}
+.items1:hover{
+    background-color:rgb(206, 206, 199);
+    color: white;
+    position: relative;
+    text-align: center;
+    height: 36px;
+    border-radius: 25px;
+}
+#search{
+    height: 30px;
+    width: 180px;
+    border-radius: 20px 20px 20px 20px;
+    position: relative;
+    top: 10px;
+}
+#img1{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 15px;
+    right: 28px;
+    cursor: pointer;
+}
+#img2{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 15px;
+    cursor: pointer;
+}
+
+.items:hover{
+    background-color: mediumseagreen;
+    color: white;
+}
+.SECONDLINE{
+    display: flex;
+    background-color:rgb(63, 61, 61);
+    color: white;
+    justify-content: space-evenly;
+    height: 30px;
+    font-size: small;
+    align-items: center;
+}
+.asap:hover{
+    background-color: black;
+}
+.asap{
+    height: 30px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.arroy{
+    height: 10px;
+    width: 10px;
+}
+#job{
+    height: 22px;
+    width: 22px;
+}
+#gc{
+    width: 120px;
+}
+#box1{
+    background-color:mediumseagreen;
+    width: 112px;
+    height: 40px;
+    border-radius: 25px 25px 25px 25px;
+    color: white;
+    font-size: 16px;
+    line-height: 2.2;
+}
+#Sign1{
+    background-color: rgb(181, 177, 177);
+    width: 112px;
+    height: 40px;
+    border-radius: 25px 25px 25px 25px;
+    color: white;
+    border: none;
+    font-size: 16px;
+   cursor: pointer;
+}

@@ -6,6 +6,7 @@ Features
 * Simple and clean design
 * Hover effects for menu items
 * Easy to integrate into any web project
+
 Technologies Used
 * HTML
 * CSS
